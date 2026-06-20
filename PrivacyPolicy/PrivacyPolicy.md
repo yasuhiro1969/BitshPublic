@@ -1,0 +1,48 @@
+**Privacy Policy for Bit Shuffler**
+[Last Updated: June 20, 2026]
+
+This Privacy Policy governs the handling of user information by "Bit Shuffler" for Android and Windows (hereinafter referred to as "the Application").
+
+**1. Required Permissions and Purpose of Use**
+The Application requires the following permissions to function properly. These permissions are used exclusively for the specified purposes below:
+
+* **[Storage / Access to Files and Media]**
+* **File Splitting:** Reads the original file selected by the user, splits it, and writes the generated fragment files to the designated location.
+* **File Combination:** Reads the fragment files selected by the user, combines them, and writes the restored original file to the designated location.
+
+
+
+**2. Data Collection and Transmission**
+The Application does not collect, track, or transmit your personal information or file data to external servers.
+
+Data transmission occurs exclusively when you explicitly instruct the Application to perform an action, such as saving files to external storage or sharing/transferring them to other applications or programs.
+
+**3. Contact Information**
+If you have any questions or inquiries regarding this Privacy Policy, please contact us at:
+
+* **E-mail:** support@bshuffler.com
+
+------------------------------------------------------------------------
+**Bit Shuffler プライバシーポリシー**
+[最終更新日: 2026年6月20日]
+
+本プライバシーポリシーは、Android版およびWindows版の「Bit Shuffler」（以下「本アプリケーション」）におけるユーザー情報の取り扱いについて説明するものです。
+
+**1. 必要な権限と利用目的**
+本アプリケーションは、機能を正常に提供するために以下の権限を必要とします。取得した権限は、以下の目的以外には一切使用されません。
+
+* **[ストレージ（ファイルとメディアへのアクセス）]**
+* **ファイルの分割:** ユーザーが指定した元ファイルを読み込んで分割処理を行い、生成された断片ファイルを指定の場所に書き込みます。
+* **ファイルの結合:** ユーザーが指定した断片ファイルを読み込んで結合処理を行い、復元された元ファイルを指定の場所に書き込みます。
+
+
+
+**2. データの収集および外部送信について**
+本アプリケーションは、ユーザーの個人情報やファイルデータを収集、追跡、または当社のサーバーに送信することは一切ありません。
+
+データの外部送信（外部ストレージへの保存、または他のプログラムやアプリへの転送など）が発生するのは、ユーザー自身が本アプリケーション内でその操作を明示的に指示・実行した場合のみに限られます。
+
+**3. お問い合わせ**
+本プライバシーポリシーに関するご質問やご不明な点がございましたら、以下のメールアドレスまでお問い合わせください。
+
+* **E-mail:** support@bshuffler.com
